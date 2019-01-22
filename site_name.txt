@@ -1,0 +1,14 @@
+https://archive.org/
+
+https://ftp.sunet.se/
+
+http://www.ericphelps.com/
+
+https://github.com/pclicious/BatToExeConverter
+
+https://github.com/npocmaka/batch.scripts/blob/master/hybrids/iexpress/bat2exeIEXP.bat  
+
+http://www.robvanderwoude.com/scriptcompilers.php
+
+https://www.tachytelic.net/2017/10/how-to-run-a-vba-macro-when-new-mail-is-received-in-outlook/
+ 
