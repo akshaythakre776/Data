@@ -1,0 +1,86 @@
+Ramkumar K
+Title:	Consultant
+Location:	Bangalore, India 
+Languages:	English(fluent), Tamil(fluent), Hindi(conversational), Telugu(conversational)
+
+Experience Summary
+
+Having more than 5 years of strong experience in Design, Development, Testing and end to end life cycle of software application and in developing internet/intranet applications using Java/J2EE technologies.
+KEY SKILLS: 
+?	Functional:  Having worked closely with client acquired the Business Analysis skills and Requirements gathering ability, and having Excellent Communication and Interpretation skills.
+•	Technical:  Java, J2EE. Spring 4,Hibernate, JSP, HTML5, CSS3, AngularJS5(beginner), Java Script, Weblogic server administration, WebSphere8.
+Experience
+
+01	Type of Industry: 	CISCO Stealthwatch Management
+	Project Description:                       	The SMC manages, coordinates and configures Stealthwatch appliances deployed at critical segments throughout the enterprise. Available as a physical or virtual appliance, the SMC enables instant data correlation, traffic visualization and consolidated reporting so that administrators can detect and prioritize security threats, pinpoint network misuse and performance issues, and manage incident response- all from a single control center. Along with flow export technologies, the Stealthwatch System can also collect data from other types of technologies including firewalls, web proxies, IDS/IPS and NAC systems.
+
+	Role/Title:                   	 Software Developer
+	Project Duration:	
+	Responsibilities:	?	Implemented the project using the Spring MVC framework
+?	Responsible for reviewing the requirements and interacting with the business partners to get clarified with the requirements for the team.
+?	Involved in designing JSP pages based on Client UI Standards.
+?	Involved in Production support activities.
+?	Worked in an agile environment to deliver functionalities as part of each sprint.
+?	Participated in team meetings to review status of projects. 
+?	Prepared documentation for client review. Conducted reviews meeting to discuss findings, risks & challenges and recommended the solutions.
+?	Designed and developed requirements for new functionalities.
+	Operating Systems:                       	Windows10, Linux Ubuntu
+	Software / Languages:	JDK 1.8, JSP, Servlets, JDBC, Tomcat Server, MYSQL(DB).
+	Special Tools:	Eclipse
+
+
+02	Type of Industry: 	Remote Patient Monitoring  
+Anidra Tech Ventures Pty Ltd, Melbourne, Australia.
+
+	Project Description:	Anidra Tech Ventures Pty Ltd., is one of the leading Health Care Product based company with headquarters at Melbourne, Australia. They offer healthcare products that enable the health care professionals to remotely view patient’s health condition for advising advance remedies and treatments. Also, they provide continuous investigations on the possible use cases for predicting deteriorating health conditions of the patients and facilitating earlier intervention. 
+
+	Role/Title:                   	 Software Developer
+	Project Duration:	
+	Responsibilities:	?	Implemented the project using the Spring MVC framework
+?	Designed and developed web pages using JSP, Java Beans, HTML, CSS, JavaScript, jQuery and AJAX.
+?	Responsible for reviewing the requirements and interacting with the business partners to get clarified with the requirements for the team.
+?	Involved in designing JSP pages based on Client UI Standards.
+?	Involved in Production support activities.
+?	Worked in an agile environment to deliver functionalities as part of each sprint.
+?	Participated in team meetings to review status of projects. 
+?	Prepared documentation for client review. Conducted reviews meeting to discuss findings, risks & challenges and recommended the solutions.
+?	Designed and developed requirements for new functionalities.
+	Operating Systems:                       	Windows 8
+	Software / Languages:	JDK 1.7, JSP, Spring, Hibernate, Tomcat Server, MYSQL(DB).
+	Special Tools:	Eclipse
+	
+03	Type of Industry: 	Merit-Bay Test Engine
+
+	Project Description:	Merit Bay Test Engine is developed for testing the skills of our employees who had undergone the knowledge based training. It provides various test skills which is used to gauge the employee's strength in that particular skill. This is used as a measure to rate the employee's performance in the project since it is mainly focused on the skills acquired through the knowledge transfer. The ratings are stored in a database for future analysis.
+
+	Role/Title:                   	 Software Developer
+	Project Duration:	
+	Responsibilities:	?	Responsible for designing JSP pages based on Client UI standards, develop coding using Spring MVC Pattern, code review and to unit test the above modules.
+?	 Involved in the Database Design.
+?	Responsible for developing the major Role modules including Super Admin and Admin Role.
+?	Responsible for reviewing the requirements and interacting with the business partners to get clarified with the requirements for the team.
+?	As a responsible team member worked along with the Team Lead during the phases of requirements gathering and Analysis.
+?	Involved in the various phases of the project including Design, Development, and Deployment for the employee performance module.
+
+	Operating Systems:                       	Windows 7
+	Software / Languages:	JDK 1.7, JSP, Spring, Hibernate, WebLogic, MYSQL(DB).
+	Special Tools:	Eclipse
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+Higher Education
+
+?	Master of Information Technology - (2009 – 2012) – Melbourne - Australia.
+?	Bachelor of Engineering – Electronics and Communication (2003-2007) – Shri Angalamman College of Engineering & Technology- Trichy.
+
+
