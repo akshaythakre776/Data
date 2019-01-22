@@ -1,0 +1,13 @@
+console.log("os.freemem: \n,os.freemem()");
+os.freemem()
+os.arch()
+os.cpus()
+vi abc
+os.endianness()
+os.homedir()
+os.hostname()
+os.loadavg()
+os.platform()
+os.release()
+os.tmpdir()
+os.uptime()
